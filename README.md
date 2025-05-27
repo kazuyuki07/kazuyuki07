@@ -1,5 +1,5 @@
 <div align="center">
-  <img src= "https://www.codewars.com/users/kazuyuki/badges/large">
+  <img src= "https://www.codewars.com/users/kazuyuki/badges/small">
   <img src="hello.png">
 </div>
 <img src= "https://github-readme-streak-stats.herokuapp.com/?user=kazuyuki07"
