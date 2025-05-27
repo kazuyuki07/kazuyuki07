@@ -5,5 +5,5 @@
 </div>
 <div align="center"><img src= "https://github-readme-stats.vercel.app/api?username=kazuyuki07&show_icons=true&theme=merko" height="150"/></div>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=夢がなかったら、生活が無理でした。&author=一雪"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=大事なものは車とパソコン&author=かずゆき"/>
 </div>
