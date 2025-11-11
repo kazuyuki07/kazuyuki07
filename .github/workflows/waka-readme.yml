@@ -14,14 +14,9 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: kazuyuki07/kazuyuki07 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TOTAL: true
           SHOW_TIME: true
           BLOCKS: ░▒▓█
-          CODE_LANG: python, java, powershell
           TIME_RANGE: all_time
-          LANG_COUNT: 4
-          TARGET_PATH: README.md
-          IGNORED_LANGUAGES: kvlang
+          LANG_COUNT: 3
