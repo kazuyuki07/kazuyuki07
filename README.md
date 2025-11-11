@@ -27,6 +27,8 @@ Total Time: 60 hrs 1 min
 Python                             39 hrs 39 mins  ████████████████▒░░░░░░░░   65.72 %
 Java                               6 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
 Go                                 6 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Rust                               3 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Java Properties                    52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
