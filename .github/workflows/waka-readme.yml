@@ -22,6 +22,6 @@ jobs:
           BLOCKS: ░▒▓█
           CODE_LANG: python, java, powershell
           TIME_RANGE: all_time
-          LANG_COUNT: 5
+          LANG_COUNT: 4
           TARGET_PATH: README.md
           IGNORED_LANGUAGES: kvlang
