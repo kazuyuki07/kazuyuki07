@@ -18,7 +18,7 @@
 ![Windows 98](https://img.shields.io/badge/Windows_98-008080?style=for-the-badge&logo=windows-98&logoColor=white)
 ## My activity 🎴
 ![Status](https://github-readme-activity-graph.vercel.app/graph?username=kazuyuki07&theme=defualt)
-## Other activity 💻
+## Another activity 💻
 <!--START_SECTION:waka-->
 
 ```python, java, powershell
