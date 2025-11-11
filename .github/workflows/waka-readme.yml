@@ -14,10 +14,12 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          API_BASE_URL: https://wakatime.com/api
+          REPOSITORY: kazuyuki07/kazuyuki07 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TOTAL: true
           SHOW_TIME: true
           BLOCKS: ░▒▓█
           CODE_LANG: python, java, powershell
-          TIME_RANGE: last_30_days
+          TIME_RANGE: all_time
           LANG_COUNT: 5
