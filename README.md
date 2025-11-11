@@ -8,6 +8,6 @@
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white)
+![](https://img.shields.io/badge/Windows_98-008080?style=for-the-badge&logo=windows-98&logoColor=white)
 ## My activity 🎴
 ![Status](https://github-readme-activity-graph.vercel.app/graph?username=kazuyuki07&theme=defualt)
