@@ -12,7 +12,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
           API_BASE_URL: https://wakatime.com/api
           REPOSITORY: kazuyuki07/kazuyuki07 
