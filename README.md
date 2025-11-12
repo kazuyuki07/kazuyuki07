@@ -1,4 +1,4 @@
-<img src= "./assets/nihon-ichiban.gif" alt='nihon'/>
+<img src= "./assets/kittycat.gif" alt='nihon'/>
 
 ##
 <div align = center>
@@ -35,3 +35,6 @@ Java Properties                    52 mins         ▒░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+##
+<div class='japn'><img src= "./assets/nihon-ichiban.gif" alt='nihon'/></div>
