@@ -9,15 +9,14 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TOTAL: true
-          SHOW_TIME: true
-          BLOCKS: ░▒▓█
-          TIME_RANGE: all_time
-          LANG_COUNT: 5
-          IGNORED_LANGUAGES: kvlang yaml json toml txt
+          SHOW_TIMEZONE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SYMBOL_VERSION: 2
