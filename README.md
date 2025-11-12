@@ -1,7 +1,6 @@
-<div class="kitty">
-  <img src= "https://tenor.com/ru/view/cat-gif-14087697313482866514" alt='kittycat' />
-</div>
+<img src= "./assets/nihon-ichiban.gif" alt='nihon'/>
 
+##
 <div align = center>
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech&weight=900&size=28&pause=300&color=F7CCBB&background=483B3C00&center=true&width=435&lines=Hello!%F0%9F%93%8E;I+am+Kazuyuki" alt="Typing SVG"/>
 </div>
