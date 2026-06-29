@@ -1,9 +1,5 @@
-<img src= "./assets/kittycat.gif" alt='nihon'/>
-
-##
-<div align = center>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech&weight=900&size=28&pause=300&color=F7CCBB&background=483B3C00&center=true&width=435&lines=Hello!%F0%9F%93%8E;I+am+Kazuyuki" alt="Typing SVG"/>
-</div>
+<div align="center"><img src= "./assets/welcome.png" alt='welcome'/></div>
+<img src= "./assets/kittycat.gif" alt='kitty'/>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
@@ -20,9 +16,13 @@
 ![Apache OpenOffice](https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows 98](https://img.shields.io/badge/Windows_98-008080?style=for-the-badge&logo=windows-98&logoColor=white)
+
 ## My activity 🎴
+
 ![Status](https://github-readme-activity-graph.vercel.app/graph?username=kazuyuki07&theme=high-contrast)
+
 ## Coding activity 💻
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -37,5 +37,4 @@ YAML                               2 hrs 51 mins         ⣦⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-##
-<div class='japn'><img src= "./assets/nihon-ichiban.gif" alt='nihon'/></div>
+<img src= "./assets/japan.gif" alt='nihon'/>
