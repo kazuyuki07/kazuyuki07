@@ -1,5 +1,5 @@
 <div align="center"><img src= "./assets/welcome.png" alt='welcome'/></div>
-<img src= "./assets/kittycat.gif" alt='kitty'/>
+<div align="center"><img src= "./assets/kittycat.gif" alt='kitty'/></div>
 
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
